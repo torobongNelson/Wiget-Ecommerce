@@ -1,6 +1,6 @@
 package com.wiget.Wiget.Services;
 
-import Exceptions.ProductCategoryExceptions.ProductCategoryNotFoundException;
+import com.wiget.Wiget.Exceptions.ProductCategoryExceptions.ProductCategoryNotFoundException;
 import com.wiget.Wiget.Interfaces.ProductCategoryInterface;
 import com.wiget.Wiget.Models.ProductCategory;
 import com.wiget.Wiget.Repositories.ProductCategoryRepository;

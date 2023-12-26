@@ -1,4 +1,4 @@
-package Exceptions.ProductCategoryExceptions;
+package com.wiget.Wiget.Exceptions.ProductCategoryExceptions;
 
 public class ProductCategoryNotFoundException extends RuntimeException {
 
